@@ -1,7 +1,7 @@
 ###👋
 
 - 🔭 Atuando com analista de suporte ERP
-- 🌱 Estudando T-SQL
+- 🌱 Estudando PL/SQL
 - 📫 natan.teodoro@hotmail.com
 - 😄 Pronouns: ele/dele
 
